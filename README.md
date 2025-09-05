@@ -6,11 +6,7 @@ Built as part of the Aganitha Web Developer take-home challenge.
 ---
 
 ## 🚀 Live Demo
-🔗 [View App Here](<[YOUR_STACKBLITZ_LINK](https://start-vite-react-dev-oqpw.bolt.host
-)>)
-
-*(Replace `<[YOUR_STACKBLITZ_LINK](https://start-vite-react-dev-oqpw.bolt.host
-)>` with your actual StackBlitz live URL)*
+🔗 [View App Here](https://start-vite-react-dev-oqpw.bolt.host)
 
 ---
 
