@@ -17,18 +17,19 @@ Built as part of the Aganitha Web Developer take-home challenge.
   - Title
   - Author(s)
   - First published year
-- Preloaded **suggestion chips** (e.g., Harry Potter, The Hobbit)
+- Preloaded **suggestion chips** (Harry Potter, The Hobbit, Atomic Habits, The Alchemist)
 - Handles:
   - Loading state
   - No results
   - Errors (e.g., network failure)
+- Modern UI with **navbar, background image, and card hover effects**
 - Fully responsive **card grid layout**
 
 ---
 
 ## 🛠️ Tech Stack
 - React 18 + Vite
-- TypeScript (Bolt.new default)
+- TypeScript
 - CSS (custom responsive styles)
 - [Open Library Search API](https://openlibrary.org/dev/docs/api/search)
 
