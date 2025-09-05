@@ -33,4 +33,3 @@ Built as part of the Aganitha Web Developer take-home challenge.
 - CSS (custom responsive styles)
 - [Open Library Search API](https://openlibrary.org/dev/docs/api/search)
 
-Example request:
